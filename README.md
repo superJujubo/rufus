@@ -1,0 +1,1 @@
+# rufus是一款实用的自启动u盘制作工具，可快速制作linux系统或者win启动u盘。使用Rufus能够制作U盘系统启动盘和格式化USB，支持ISO镜像、GPT和UEFI
